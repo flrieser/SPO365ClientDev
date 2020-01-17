@@ -19,7 +19,6 @@
     <ElementFile Location="Content\App.css" />
     <ElementFile Location="Content\bootstrap.css" />
     <ElementFile Location="Content\flexbox.css" />
-    <ElementFile Location="Content\cssgrid.css" />
     <ElementManifest Location="Images\Elements.xml" />
     <ElementFile Location="Images\AppIcon.png" />
   </ElementManifests>

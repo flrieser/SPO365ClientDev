@@ -3,3 +3,8 @@ D:\SPO365ClientDev\09 Enhancing UI\02 BootstrapApp\BootstrapApp\obj\Debug\Bootst
 D:\SPO365ClientDev\09 Enhancing UI\02 BootstrapApp\BootstrapApp\obj\Debug\BootstrapApp.csproj.CoreCompileInputs.cache
 D:\SPO365ClientDev\09 Enhancing UI\02 BootstrapApp\BootstrapApp\obj\Debug\BootstrapApp.dll
 D:\SPO365ClientDev\09 Enhancing UI\02 BootstrapApp\BootstrapApp\obj\Debug\BootstrapApp.pdb
+C:\Users\Administrator\Desktop\dev\SPO365ClientDev\04 Enhancing UI\01 CSS-Standards\BootstrapApp\bin\Debug\BootstrapApp.pdb
+C:\Users\Administrator\Desktop\dev\SPO365ClientDev\04 Enhancing UI\01 CSS-Standards\BootstrapApp\obj\Debug\BootstrapApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\dev\SPO365ClientDev\04 Enhancing UI\01 CSS-Standards\BootstrapApp\obj\Debug\BootstrapApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\dev\SPO365ClientDev\04 Enhancing UI\01 CSS-Standards\BootstrapApp\obj\Debug\BootstrapApp.dll
+C:\Users\Administrator\Desktop\dev\SPO365ClientDev\04 Enhancing UI\01 CSS-Standards\BootstrapApp\obj\Debug\BootstrapApp.pdb
